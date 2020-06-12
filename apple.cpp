@@ -2,7 +2,7 @@
 #include <iostream>
 
 using namespace std;
-
+//Main function
 int main()
 {
     int s,t,a,b,m,n,ap,apcnt = 0,ora,orcnt = 0;
